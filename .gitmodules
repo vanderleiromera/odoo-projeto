@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/odoo/odoo.git
+[submodule "l10n-brazil"]
+	path = l10n-brazil
+	url = https://github.com/OCA/l10n-brazil.git
