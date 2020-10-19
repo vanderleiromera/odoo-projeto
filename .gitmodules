@@ -7,3 +7,6 @@
 [submodule "account-invoicing"]
 	path = account-invoicing
 	url = git@github.com:oca/account-invoicing.git
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:oca/stock-logistics-workflow.git
