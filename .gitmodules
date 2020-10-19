@@ -4,3 +4,6 @@
 [submodule "l10n-brazil"]
 	path = l10n-brazil
 	url = https://github.com/OCA/l10n-brazil.git
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:oca/account-invoicing.git
