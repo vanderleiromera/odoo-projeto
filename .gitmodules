@@ -22,3 +22,6 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:oca/web.git
+[submodule "social"]
+	path = social
+	url = git@github.com:oca/social.git
