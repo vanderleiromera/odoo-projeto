@@ -10,3 +10,6 @@
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:oca/stock-logistics-workflow.git
+[submodule "muk_base"]
+	path = muk_base
+	url = git@github.com:muk-it/muk_base.git
