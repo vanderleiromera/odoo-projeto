@@ -19,3 +19,6 @@
 [submodule "dms"]
 	path = dms
 	url = git@github.com:oca/dms.git
+[submodule "web"]
+	path = web
+	url = git@github.com:oca/web.git
