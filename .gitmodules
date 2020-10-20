@@ -16,3 +16,6 @@
 [submodule "muk_web"]
 	path = muk_web
 	url = git@github.com:muk-it/muk_web.git
+[submodule "dms"]
+	path = dms
+	url = git@github.com:oca/dms.git
