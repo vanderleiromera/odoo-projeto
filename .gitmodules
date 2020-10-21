@@ -34,3 +34,6 @@
 [submodule "account-reconcile"]
 	path = account-reconcile
 	url = git@github.com:oca/account-reconcile.git
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:oca/product-attribute.git
