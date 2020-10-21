@@ -40,3 +40,6 @@
 [submodule "stock-logistics-barcode"]
 	path = stock-logistics-barcode
 	url = git@github.com:oca/stock-logistics-barcode.git
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:oca/stock-logistics-warehouse.git
