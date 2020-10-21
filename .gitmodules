@@ -31,3 +31,6 @@
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:oca/server-ux.git
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = git@github.com:oca/account-reconcile.git
