@@ -25,3 +25,6 @@
 [submodule "social"]
 	path = social
 	url = git@github.com:oca/social.git
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = git@github.com:oca/bank-statement-import.git
