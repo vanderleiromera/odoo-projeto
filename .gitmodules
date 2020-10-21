@@ -37,3 +37,6 @@
 [submodule "product-attribute"]
 	path = product-attribute
 	url = git@github.com:oca/product-attribute.git
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = git@github.com:oca/stock-logistics-barcode.git
