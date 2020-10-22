@@ -49,3 +49,6 @@
 [submodule "sale-workflow"]
 	path = sale-workflow
 	url = git@github.com:oca/sale-workflow.git
+[submodule "pos"]
+	path = pos
+	url = git@github.com:oca/pos.git
