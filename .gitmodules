@@ -58,3 +58,6 @@
 [submodule "account-payment"]
 	path = account-payment
 	url = git@github.com:oca/account-payment.git
+[submodule "contract"]
+	path = contract
+	url = git@github.com:oca/contract.git
