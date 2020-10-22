@@ -55,3 +55,6 @@
 [submodule "credit-control"]
 	path = credit-control
 	url = git@github.com:oca/credit-control.git
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:oca/account-payment.git
