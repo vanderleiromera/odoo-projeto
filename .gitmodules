@@ -43,3 +43,6 @@
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = git@github.com:oca/stock-logistics-warehouse.git
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:oca/purchase-workflow.git
