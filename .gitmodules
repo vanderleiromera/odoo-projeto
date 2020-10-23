@@ -61,3 +61,6 @@
 [submodule "contract"]
 	path = contract
 	url = git@github.com:oca/contract.git
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = git@github.com:oca/sale-reporting.git
