@@ -79,3 +79,6 @@
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = git@github.com:oca/reporting-engine.git
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:oca/mis-builder.git
