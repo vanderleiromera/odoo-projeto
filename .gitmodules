@@ -70,3 +70,6 @@
 [submodule "stock-logistics-reporting"]
 	path = stock-logistics-reporting
 	url = git@github.com:oca/stock-logistics-reporting.git
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = git@github.com:oca/account-invoice-reporting.git
