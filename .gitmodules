@@ -67,3 +67,6 @@
 [submodule "purchase-reporting"]
 	path = purchase-reporting
 	url = git@github.com:oca/purchase-reporting.git
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = git@github.com:oca/stock-logistics-reporting.git
