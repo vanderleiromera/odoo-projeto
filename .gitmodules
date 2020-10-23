@@ -82,3 +82,6 @@
 [submodule "mis-builder"]
 	path = mis-builder
 	url = git@github.com:oca/mis-builder.git
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:oca/account-financial-reporting.git
