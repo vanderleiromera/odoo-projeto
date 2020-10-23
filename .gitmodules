@@ -76,3 +76,6 @@
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:oca/server-tools.git
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:oca/reporting-engine.git
