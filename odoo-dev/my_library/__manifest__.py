@@ -5,5 +5,6 @@
     'author': "Vanderlei", 
     'website': "http://www.paranstillus.com", 
     'category': 'Uncategorized', 
-    'version': '12.0.1', 
+    'version': '12.0.1',
+    'data': ['views/library_book.xml'],
 }
