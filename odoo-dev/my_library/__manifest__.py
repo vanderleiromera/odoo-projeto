@@ -6,5 +6,10 @@
     'website': "http://www.paranstillus.com", 
     'category': 'Uncategorized', 
     'version': '12.0.1',
-    'data': ['views/library_book.xml'],
+    'depends': ['base'],
+    'data': [
+        'security/groups.xml',
+        'security/ir.model.access.csv',
+        'views/library_book.xml'
+    ],
 }
