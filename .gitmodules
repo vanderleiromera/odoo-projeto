@@ -88,3 +88,6 @@
 [submodule "documentation-user"]
 	path = documentation-user
 	url = git@github.com:kmee/documentation-user.git
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = git@github.com:oca/margin-analysis.git
